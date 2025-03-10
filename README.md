@@ -685,8 +685,8 @@ Now, it's time to build on this foundation by [practicing the lifecycle of ticke
 
 This lab provided hands-on experience in configuring the osTicket help desk ticketing system after installation, covering essential tasks such as setting up roles, departments, teams, agents, users, and Service Level Agreements (SLAs). The lab was conducted in a Microsoft Azure virtualized environment, offering practical skills for managing and optimizing help desk operations in a cloud-based infrastructure.
 
-To continue building on this lab, check out the [next tutorial](https://github.com/vincentchachere/Ticket-Lifecycle) within this series, where we’ll practice working tickets from intake to relsoution.
+To continue building on this lab, check out the [next tutorial](https://github.com/DavidClarkeIT/Ticket-Lifecycle) within this series, where we’ll practice working tickets from intake to relsoution.
 
 Thank you for following along with this project. Your time and effort in learning and implementing these concepts are greatly appreciated.
 
-☎️ For questions or to connect you can reach me at: www.linkedin.com/in/vincentchachere
+☎️ For questions or to connect you can reach me at: www.linkedin.com/in/davidclarkeit/
